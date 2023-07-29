@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "asalkhoja",
+        "img": "/img/ali.png"
+    },
+    {
+        "id": 2,
+        "name": "tom ",
+        "img": "/img/1690656953260photo_2023-07-22_21-14-12.jpg",
+        "download": "/download/1690656953260photo_2023-07-22_21-14-12.jpg"
+    },
+    {
+        "id": 3,
+        "name": "tom ",
+        "img": "/img/1690656959140photo_2023-07-22_21-14-12.jpg",
+        "download": "/download/1690656959140photo_2023-07-22_21-14-12.jpg"
+    }
+]
